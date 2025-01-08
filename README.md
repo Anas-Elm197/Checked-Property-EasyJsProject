@@ -1,5 +1,10 @@
 # Project: Subscription and Payment Method Selector
 
+## Demo video to watch 
+
+https://github.com/user-attachments/assets/628845c8-a3fe-4025-b3c9-53610ebfc64b
+
+
 ## Overview
 
 This project demonstrates a simple webpage that allows users to:
@@ -36,6 +41,3 @@ style.css: Contains the styles applied to the webpage.
 
 index.js: Contains the JavaScript logic for interactivity.
 
-## Demo video to watch 
-
-https://github.com/user-attachments/assets/628845c8-a3fe-4025-b3c9-53610ebfc64b
